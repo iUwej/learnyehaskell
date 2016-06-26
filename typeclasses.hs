@@ -1,0 +1,1 @@
+data Day = Monday | Teusday | Wednesday | Thursday | Friday | Sartuday | Sunday deriving (Eq,Ord,Show,Read,Bounded,Enum)
